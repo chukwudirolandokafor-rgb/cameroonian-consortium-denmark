@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" fill="#ffffff"/>
+  <rect x="0" y="0" width="300" height="200" fill="#0b7d3a"/>
+  <rect x="300" y="0" width="300" height="100" fill="#c41e3a"/>
+  <rect x="300" y="100" width="300" height="100" fill="#ffd400"/>
+  <text x="150" y="125" font-family="Arial, Helvetica, sans-serif" font-size="60" fill="#ffffff" font-weight="700" text-anchor="middle">CCD</text>
+</svg>
